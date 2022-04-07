@@ -2,14 +2,15 @@
 @import '~video.js/dist/video-js.css';
 @import '~video.js/themes/dist/forest/index.css';
 @import 'node_modules/video.js/dist/video-js.css';
-@import 'https://unpkg.com/@videojs/themes/dist/forest/index.css';
+
 <link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet" />
 <link href="https://unpkg.com/@videojs/themes@1/dist/forest/index.css" rel="stylesheet" />
+
 */
 
 @import '~video.js/dist/video-js.css';
-@import '~video.js/dist/forest.css';
-/* https://github.com/videojs/themes/blob/master/forest/index.css  */
+@import '~@videojs/themes/dist/forest/index.css';
+
 /* Video.js CSS START */
 .vjs-theme-forest {
     --vjs-theme-forest--primary: rgb(129,140,248);
